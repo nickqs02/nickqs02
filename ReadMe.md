@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 Sou estudante de Análise e Desenvolvimento de Sistemas<br>👯 Estou procurando estágio<br>🌱 Estudando C#, PHP e android atualmente<br><br>
+🔭 Sou formado em Análise e Desenvolvimento de Sistemas<br>👯 Estou procurando meu primeiro emprego na área<br>🌱 Estudando front-end atualmente<br><br>
 
 
 ## 🌐 Socials:
